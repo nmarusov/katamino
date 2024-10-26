@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "katamino"
+version = "0.1.0"
+description = "Katamino solver"
+authors = ["Марусов Николай Леонидович <nmarusov@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+click = "^8.1.7"
+
+
+[tool.poetry.group.dev.dependencies]
+ruff = "^0.7.0"
+isort = "^5.13.2"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.ruff]
+line-length = 79
