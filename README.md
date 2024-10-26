@@ -1,4 +1,6 @@
 # Katamino solver
+## Usage
+
 ```
 Usage: main.py [OPTIONS] FILENAME
 
@@ -7,4 +9,12 @@ Options:
   -g, --greedy         Save all solutions for each shape set(rotated, flipped,
                        alternative).
   --help               Show this message and exit.
+```
+
+## Shapes
+
+### C
+```
+X X
+XXX
 ```
