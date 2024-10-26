@@ -1,0 +1,71 @@
+Level: 9, solution: 1, tag: CFLQSTVYZ
+YLLQZZZCC
+YYLQQQZZC
+YTLFQVSCC
+YTLFFVSSS
+TTTFFVVVS
+--------------------------------------------------------------------------------
+Level: 9, solution: 2, tag: CFLQSTVWZ
+TTTWWFFFZ
+VTWWQQFFZ
+VTWQQSSZZ
+VVVLQSCZC
+LLLLSSCCC
+--------------------------------------------------------------------------------
+Level: 9, solution: 3, tag: CFLQTVWYZ
+WLLLLTTTZ
+WWCCLQTZZ
+FWWCQQTZV
+FFCCYQQZV
+FFYYYYVVV
+--------------------------------------------------------------------------------
+Level: 9, solution: 4, tag: CFLQSVWYZ
+WFFFSSZZZ
+WWFFSZZLL
+VWWSSQCCL
+VYYYYQQCL
+VVVYQQCCL
+--------------------------------------------------------------------------------
+Level: 9, solution: 5, tag: FLQSTVWYZ
+WYYYYQVVV
+WWYZQQQTV
+FWWZSSQTV
+FFZZSLTTT
+FFZSSLLLL
+--------------------------------------------------------------------------------
+Level: 9, solution: 6, tag: CFLSTVWYZ
+WLLLLTVVV
+WWCCLTSSV
+FWWCTTTSV
+FFCCYZZSS
+FFYYYYZZZ
+--------------------------------------------------------------------------------
+Level: 9, solution: 7, tag: CFQSTVWYZ
+WFFFZZZCC
+WWFFQQZZC
+TWWQQVSCC
+TTTYQVSSS
+TYYYYVVVS
+--------------------------------------------------------------------------------
+Level: 9, solution: 8, tag: CLQSTVWYZ
+YYYYZZZLL
+SSYQWWZZL
+VSQQQWWTL
+VSSCQCWTL
+VVVCCCTTT
+--------------------------------------------------------------------------------
+Level: 9, solution: 9, tag: CFLQSTVWY
+WFFFYYYYS
+WWFFLYSSS
+TWWVLQSCC
+TTTVLQQQC
+TVVVLLQCC
+--------------------------------------------------------------------------------
+Level: 9, solution: 10, tag: CFLQSTWYZ
+LLLLZZZFF
+LWWZZTFFF
+WWSTTTQCC
+WYSSSTQQC
+YYYYSQQCC
+--------------------------------------------------------------------------------
+Elapsed time: 7538.507 s

@@ -1,0 +1,169 @@
+Level: 5, solution: 1, tag: FVWYZ
+FFFWY
+FFWWY
+VWWYY
+VZZZY
+VVVZZ
+--------------------------------------------------------------------------------
+Level: 5, solution: 2, tag: LTVWY
+LTVVV
+LTTTV
+LTWWV
+LLYWW
+YYYYW
+--------------------------------------------------------------------------------
+Level: 5, solution: 3, tag: FSVWY
+YYYYW
+SSYWW
+VSWWF
+VSSFF
+VVVFF
+--------------------------------------------------------------------------------
+Level: 5, solution: 4, tag: FLWYZ
+FFZLL
+FFZZL
+FWWZL
+WWYZL
+WYYYY
+--------------------------------------------------------------------------------
+Level: 5, solution: 5, tag: CLWYZ
+YYYYZ
+LYWWZ
+LWWZZ
+LWCZC
+LLCCC
+--------------------------------------------------------------------------------
+Level: 5, solution: 6, tag: FLTWY
+LLLLT
+LFTTT
+FFWWT
+FFYWW
+YYYYW
+--------------------------------------------------------------------------------
+Level: 5, solution: 7, tag: FLSWY
+SYYYY
+SSSYW
+FFSWW
+FFWWL
+FLLLL
+--------------------------------------------------------------------------------
+Level: 5, solution: 8, tag: QTVYZ
+QYYYY
+QQQYT
+VQTTT
+VZZZT
+VVVZZ
+--------------------------------------------------------------------------------
+Level: 5, solution: 9, tag: FLVYZ
+LLLLY
+FFFLY
+VFFYY
+VZZZY
+VVVZZ
+--------------------------------------------------------------------------------
+Level: 5, solution: 10, tag: CFVYZ
+YYYYZ
+CYCZZ
+CCCZV
+FFFZV
+FFVVV
+--------------------------------------------------------------------------------
+Level: 5, solution: 11, tag: FLSVY
+LLLLY
+VVVLY
+VSSYY
+VSFFY
+SSFFF
+--------------------------------------------------------------------------------
+Level: 5, solution: 12, tag: CLSVY
+SSVVV
+YSCCV
+YSSCV
+YYCCL
+YLLLL
+--------------------------------------------------------------------------------
+Level: 5, solution: 13, tag: FLQVY
+LLVVV
+LFFFV
+LFFQV
+LYQQQ
+YYYYQ
+--------------------------------------------------------------------------------
+Level: 5, solution: 14, tag: CFSYZ
+YFFFZ
+YYFFZ
+YSSZZ
+YSCZC
+SSCCC
+--------------------------------------------------------------------------------
+Level: 5, solution: 15, tag: CFQTY
+YYYYT
+QYTTT
+QQQFT
+CQCFF
+CCCFF
+--------------------------------------------------------------------------------
+Level: 5, solution: 16, tag: CLQSY
+YYYYS
+LYSSS
+LQSCC
+LQQQC
+LLQCC
+--------------------------------------------------------------------------------
+Level: 5, solution: 17, tag: FLQVW
+QLLLL
+QQQWL
+VQWWF
+VWWFF
+VVVFF
+--------------------------------------------------------------------------------
+Level: 5, solution: 18, tag: CFLVW
+FFVVV
+FFCCV
+FWWCV
+WWCCL
+WLLLL
+--------------------------------------------------------------------------------
+Level: 5, solution: 19, tag: FLTWZ
+FFFWZ
+FFWWZ
+TWWZZ
+TTTZL
+TLLLL
+--------------------------------------------------------------------------------
+Level: 5, solution: 20, tag: CFLQW
+LLLLW
+LQQWW
+QQWWF
+CQCFF
+CCCFF
+--------------------------------------------------------------------------------
+Level: 5, solution: 21, tag: CLSVZ
+LLLLZ
+VVVLZ
+VSSZZ
+VSCZC
+SSCCC
+--------------------------------------------------------------------------------
+Level: 5, solution: 22, tag: CFQVZ
+ZZVVV
+QZZZV
+QQQFV
+CQCFF
+CCCFF
+--------------------------------------------------------------------------------
+Level: 5, solution: 23, tag: CFLSZ
+LLZZZ
+LZZFF
+LSSFF
+LSCFC
+SSCCC
+--------------------------------------------------------------------------------
+Level: 5, solution: 24, tag: CFLST
+TLLLL
+TTTSL
+TSSSF
+CSCFF
+CCCFF
+--------------------------------------------------------------------------------
+Elapsed time: 73.837 s

@@ -1,0 +1,252 @@
+Level: 8, solution: 1, tag: FLQSTVWY
+FFFWWVVV
+FFSQWWTV
+SSSQQWTV
+SYQQLTTT
+YYYYLLLL
+--------------------------------------------------------------------------------
+Level: 8, solution: 2, tag: CLQSTVWY
+VVVQLLLL
+VTQQQWWL
+VTTTQSWW
+CTCSSSYW
+CCCSYYYY
+--------------------------------------------------------------------------------
+Level: 8, solution: 3, tag: CFLSTVWY
+YYYYLLLL
+TYWWLVVV
+TTTWWSSV
+TFFCWCSV
+FFFCCCSS
+--------------------------------------------------------------------------------
+Level: 8, solution: 4, tag: FLSTVWYZ
+ZZZFFFLL
+SSZZFFWL
+VSTTTWWL
+VSSTWWYL
+VVVTYYYY
+--------------------------------------------------------------------------------
+Level: 8, solution: 5, tag: CLSTVWYZ
+VVVLLLLT
+VZWLSTTT
+VZWWSSST
+ZZYWWCSC
+ZYYYYCCC
+--------------------------------------------------------------------------------
+Level: 8, solution: 6, tag: CFLQTVWY
+YYYYLLLL
+CYCQLVVV
+CCCQQWTV
+FFQQWWTV
+FFFWWTTT
+--------------------------------------------------------------------------------
+Level: 8, solution: 7, tag: FLQTVWYZ
+ZZYYYYLL
+TZZZYWWL
+TTTVWWQL
+TFFVWQQL
+FFFVVVQQ
+--------------------------------------------------------------------------------
+Level: 8, solution: 8, tag: CLQTVWYZ
+VVVQLLLL
+VZQQQWWL
+VZTCQCWW
+ZZTCCCYW
+ZTTTYYYY
+--------------------------------------------------------------------------------
+Level: 8, solution: 9, tag: CFLTVWYZ
+ZZZCCVVV
+FFZZCVLL
+FFWCCVTL
+FWWYTTTL
+WWYYYYTL
+--------------------------------------------------------------------------------
+Level: 8, solution: 10, tag: FLQSTVWZ
+TTTZZZSV
+LTZZSSSV
+LTQWSVVV
+LQQWWFFF
+LLQQWWFF
+--------------------------------------------------------------------------------
+Level: 8, solution: 11, tag: CFLQTVWZ
+FFZZZVVV
+FFWWZZTV
+FWWQTTTV
+LWQQQCTC
+LLLLQCCC
+--------------------------------------------------------------------------------
+Level: 8, solution: 12, tag: CFLQSVWY
+FFFWLLLL
+FFSWWCCL
+SSSQWWCV
+SYQQQCCV
+YYYYQVVV
+--------------------------------------------------------------------------------
+Level: 8, solution: 13, tag: FLQSVWYZ
+ZZYYYYLL
+SZZZYWWL
+SSSVWWQL
+FFSVWQQL
+FFFVVVQQ
+--------------------------------------------------------------------------------
+Level: 8, solution: 14, tag: CLQSVWYZ
+VVVZZZCC
+VQSSWZZC
+VQQSWWCC
+QQYSSWWL
+YYYYLLLL
+--------------------------------------------------------------------------------
+Level: 8, solution: 15, tag: CFLSVWYZ
+ZZZWWFFF
+LLZZWWFF
+LYYYYWSV
+LCYCSSSV
+LCCCSVVV
+--------------------------------------------------------------------------------
+Level: 8, solution: 16, tag: CFLQVWYZ
+ZFFFYYYY
+ZZFFQYLL
+VZWQQCCL
+VZWWQQCL
+VVVWWCCL
+--------------------------------------------------------------------------------
+Level: 8, solution: 17, tag: CFLQSVWZ
+ZZZSSVVV
+FFZZSCCV
+FFWQSSCV
+FWWQQCCL
+WWQQLLLL
+--------------------------------------------------------------------------------
+Level: 8, solution: 18, tag: FQSTVWYZ
+ZTTTWWQQ
+ZZTWWQQY
+VZTWSSQY
+VZFFFSYY
+VVVFFSSY
+--------------------------------------------------------------------------------
+Level: 8, solution: 19, tag: CFSTVWYZ
+ZZZYYYYS
+FFZZYSSS
+FFWTCSCV
+FWWTCCCV
+WWTTTVVV
+--------------------------------------------------------------------------------
+Level: 8, solution: 20, tag: CFQTVWYZ
+ZWWYYYYT
+ZZWWYTTT
+VZQWCCFT
+VZQQQCFF
+VVVQCCFF
+--------------------------------------------------------------------------------
+Level: 8, solution: 21, tag: CFLQSTWY
+YYYYLLLL
+QYTTTWWL
+QQQTSSWW
+CQCTSFFW
+CCCSSFFF
+--------------------------------------------------------------------------------
+Level: 8, solution: 22, tag: FLQSTWYZ
+FFZZZTTT
+FFWWZZTY
+FWWQSSTY
+LWQQQSYY
+LLLLQSSY
+--------------------------------------------------------------------------------
+Level: 8, solution: 23, tag: CFLSTWYZ
+FFSZZZLL
+FFSSSZZL
+FWWCSCTL
+WWYCCCTL
+WYYYYTTT
+--------------------------------------------------------------------------------
+Level: 8, solution: 24, tag: CFLQTWYZ
+LLLLZZZT
+LQQZZTTT
+QQFFFWWT
+CQCFFYWW
+CCCYYYYW
+--------------------------------------------------------------------------------
+Level: 8, solution: 25, tag: CFLQSTWZ
+WWTTTZZZ
+LWWTZZFF
+LQWTSSFF
+LQQQSCFC
+LLQSSCCC
+--------------------------------------------------------------------------------
+Level: 8, solution: 26, tag: CFLQSWYZ
+QZZZYYYY
+QQQZZYWW
+CQCSSWWF
+CCCLSWFF
+LLLLSSFF
+--------------------------------------------------------------------------------
+Level: 8, solution: 27, tag: CFQSTWYZ
+ZZZYYYYS
+FFZZYSSS
+FFWTQSCC
+FWWTQQQC
+WWTTTQCC
+--------------------------------------------------------------------------------
+Level: 8, solution: 28, tag: CFLQSTVY
+YYYYQVVV
+CYCQQQTV
+CCCSSQTV
+FFFSLTTT
+FFSSLLLL
+--------------------------------------------------------------------------------
+Level: 8, solution: 29, tag: FLQSTVYZ
+ZTTTLLLL
+ZZTQLFFF
+VZTQQSFF
+VZQQYSSS
+VVVYYYYS
+--------------------------------------------------------------------------------
+Level: 8, solution: 30, tag: CLQSTVYZ
+ZTTTYYYY
+ZZTSSYLL
+VZTQSCCL
+VZQQSSCL
+VVVQQCCL
+--------------------------------------------------------------------------------
+Level: 8, solution: 31, tag: CFLSTVYZ
+ZZZYYYYS
+LFZZYSSS
+LFFTCSCV
+LFFTCCCV
+LLTTTVVV
+--------------------------------------------------------------------------------
+Level: 8, solution: 32, tag: CFLQTVYZ
+ZZVVVYLL
+QZZZVYYL
+QQQFVYTL
+CQCFFYTL
+CCCFFTTT
+--------------------------------------------------------------------------------
+Level: 8, solution: 33, tag: CFLQSTVZ
+LLLLQFFF
+LZTQQQFF
+ZZTTTQSV
+ZCTCSSSV
+ZCCCSVVV
+--------------------------------------------------------------------------------
+Level: 8, solution: 34, tag: CFLQSVYZ
+ZZZYYYYS
+LLZZYSSS
+LVVVQSCC
+LVFFQQQC
+LVFFFQCC
+--------------------------------------------------------------------------------
+Level: 8, solution: 35, tag: CFQSTVYZ
+ZZVVVFFF
+QZZZVSFF
+QQQTVSSS
+CQCTTTYS
+CCCTYYYY
+--------------------------------------------------------------------------------
+Level: 8, solution: 36, tag: CFLQSTYZ
+ZZZYYYYS
+LFZZYSSS
+LFFTQSCC
+LFFTQQQC
+LLTTTQCC
+--------------------------------------------------------------------------------

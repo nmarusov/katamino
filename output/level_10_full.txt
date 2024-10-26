@@ -1,0 +1,8 @@
+Level: 10, solution: 1, tag: CFLQSTVWYZ
+WFFFSSLLLL
+WWFFSVVVZL
+TWWSSQQVZZ
+TTTYQQCVCZ
+TYYYYQCCCZ
+--------------------------------------------------------------------------------
+Elapsed time: 3604.653 s
