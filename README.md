@@ -13,6 +13,17 @@ Options:
 
 ## Output example
 ```
+...
+Level: 3, solution: 7, tag: CFV
+VVV
+VFF
+VFF
+CFC
+CCC
+--------------------------------------------------------------------------------
+Elapsed time: 1.747 s
+```
+```
 Level: 10, solution: 1, code: CFLQSTVWYZ
 WFFFSSLLLL
 WWFFSVVVZL
