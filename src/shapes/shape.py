@@ -30,7 +30,8 @@ class Shape:
             if c != " "
         )
 
-    def rotate(self, cells: set[Cell], times=1):
+    @staticmethod
+    def rotate(cells: set[Cell], times=1):
         """Rotates the shape given number of times around (0, 0)."""
         new_cells = set()
 
@@ -44,7 +45,8 @@ class Shape:
 
         return new_cells
 
-    def flip(self, cells: set[Cell]):
+    @staticmethod
+    def flip(cells: set[Cell]):
         """Flip the shape relative to x axis."""
         new_cells = set()
 
