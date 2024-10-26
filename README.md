@@ -11,6 +11,18 @@ Options:
   --help               Show this message and exit.
 ```
 
+## Output example
+```
+Level: 10, solution: 1, code: CFLQSTVWYZ
+WFFFSSLLLL
+WWFFSVVVZL
+TWWSSQQVZZ
+TTTYQQCVCZ
+TYYYYQCCCZ
+--------------------------------------------------------------------------------
+Elapsed time: 3604.653 s
+```
+
 ## Shapes
 
 ### C
