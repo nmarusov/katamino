@@ -5,16 +5,20 @@ import re
 
 from PIL import Image, ImageDraw
 
-SOL = re.compile(
-    r"(?P<header>Level: \d+, solution: \d+, tag: [CFLQSTVWYZIO]+)\n(?P<solution>[CFLQSTVWYZIO\n]+)(?:-+)"
+SOLUTION_RE = re.compile(
+    r"Level: (?P<level>\d+), solution: (?P<index>\d+),"
+    " tag: (?P<tag>[CFLQSTVWYZIO]+)\n"
+    "(?P<solution>(?:[CFLQSTVWYZIO]+\n)+)"
 )
-HEADER = re.compile(
-    r"Level: (?P<level>\d+), solution: (?P<solution>\d+), tag: (?P<tag>[CFLQSTVWYZIO]+)"
-)
+
+IN_DIR = "output"
+OUT_DIR = "solutions"
 
 SCALE = 0.25
 ORIGIN = (104, 104)
 SIZE = 109.7
+GAP = 1
+
 COLORS = {
     "C": "#01BAFE",
     "F": "#0085FE",
@@ -29,23 +33,19 @@ COLORS = {
     "Y": "#B25FE2",
     "Z": "#FF7305",
 }
-GAP = 1
-IN_DIR = "output"
-OUT_DIR = "solutions"
+
+print("Generating images...")
 
 for filename in os.listdir(IN_DIR):
     with open(os.path.join(IN_DIR, filename), "r", encoding="utf-8") as f:
         s = f.read()
 
     with Image.open("assets/board.png") as board:
-        for m in SOL.finditer(s):
+        for m in SOLUTION_RE.finditer(s):
+            level = int(m.group("level"))
+            index = int(m.group("index"))
+            tag = m.group("tag")
             solution = m.group("solution").strip()
-            header = m.group("header").strip()
-            print(header)
-            h = HEADER.match(header)
-            level = h.group("level")
-            sol = h.group("solution")
-            tag = h.group("tag")
 
             draw = ImageDraw.Draw(board)
 
@@ -63,6 +63,9 @@ for filename in os.listdir(IN_DIR):
                     )
                     draw.rectangle(xy, fill=COLORS[shape])
             output = board.resize([int(s * SCALE) for s in board.size])
+            output_filename = f"{level:02}_{index:02}_{tag}.png"
             output.save(
-                os.path.join(OUT_DIR, f"{level}_{sol}_{tag}.png"), "PNG"
+                os.path.join(OUT_DIR, output_filename),
+                "PNG",
             )
+            print(output_filename)
