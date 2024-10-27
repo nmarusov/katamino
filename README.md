@@ -24,7 +24,7 @@ CCC
 Elapsed time: 1.747 s
 ```
 ```
-Level: 10, solution: 1, code: CFLQSTVWYZ
+Level: 10, solution: 1, tag: CFLQSTVWYZ
 WFFFSSLLLL
 WWFFSVVVZL
 TWWSSQQVZZ
@@ -116,7 +116,7 @@ X
 X
 ```
 
-You can add custom shapes to /shapes folder and add it common shape set in solver.py:
+You can add custom shapes to */shapes* folder and add it to the common shape set in *solver.py* module:
 ```python
 SHAPES = {
     shapes.ShapeC(),
@@ -131,5 +131,6 @@ SHAPES = {
     shapes.ShapeW(),
     shapes.ShapeY(),
     shapes.ShapeZ(),
+    # TODO: Add a custom shape here
 }
 ```
